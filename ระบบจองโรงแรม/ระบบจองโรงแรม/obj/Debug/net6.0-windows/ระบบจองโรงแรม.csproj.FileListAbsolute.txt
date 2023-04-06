@@ -1,0 +1,24 @@
+C:\Users\INK\source\repos\ระบบจองโรงแรม\ระบบจองโรงแรม\bin\Debug\net6.0-windows\ระบบจองโรงแรม.exe
+C:\Users\INK\source\repos\ระบบจองโรงแรม\ระบบจองโรงแรม\bin\Debug\net6.0-windows\ระบบจองโรงแรม.deps.json
+C:\Users\INK\source\repos\ระบบจองโรงแรม\ระบบจองโรงแรม\bin\Debug\net6.0-windows\ระบบจองโรงแรม.runtimeconfig.json
+C:\Users\INK\source\repos\ระบบจองโรงแรม\ระบบจองโรงแรม\bin\Debug\net6.0-windows\ระบบจองโรงแรม.dll
+C:\Users\INK\source\repos\ระบบจองโรงแรม\ระบบจองโรงแรม\bin\Debug\net6.0-windows\ระบบจองโรงแรม.pdb
+C:\Users\INK\source\repos\ระบบจองโรงแรม\ระบบจองโรงแรม\obj\Debug\net6.0-windows\ระบบจองโรงแรม.csproj.AssemblyReference.cache
+C:\Users\INK\source\repos\ระบบจองโรงแรม\ระบบจองโรงแรม\obj\Debug\net6.0-windows\ระบบจองโรงแรม.Form1.resources
+C:\Users\INK\source\repos\ระบบจองโรงแรม\ระบบจองโรงแรม\obj\Debug\net6.0-windows\ระบบจองโรงแรม.Form2.resources
+C:\Users\INK\source\repos\ระบบจองโรงแรม\ระบบจองโรงแรม\obj\Debug\net6.0-windows\ระบบจองโรงแรม.Form3.resources
+C:\Users\INK\source\repos\ระบบจองโรงแรม\ระบบจองโรงแรม\obj\Debug\net6.0-windows\ระบบจองโรงแรม.Form4.resources
+C:\Users\INK\source\repos\ระบบจองโรงแรม\ระบบจองโรงแรม\obj\Debug\net6.0-windows\ระบบจองโรงแรม.Properties.Resources.resources
+C:\Users\INK\source\repos\ระบบจองโรงแรม\ระบบจองโรงแรม\obj\Debug\net6.0-windows\ระบบจองโรงแรม.csproj.GenerateResource.cache
+C:\Users\INK\source\repos\ระบบจองโรงแรม\ระบบจองโรงแรม\obj\Debug\net6.0-windows\ระบบจองโรงแรม.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\INK\source\repos\ระบบจองโรงแรม\ระบบจองโรงแรม\obj\Debug\net6.0-windows\ระบบจองโรงแรม.AssemblyInfoInputs.cache
+C:\Users\INK\source\repos\ระบบจองโรงแรม\ระบบจองโรงแรม\obj\Debug\net6.0-windows\ระบบจองโรงแรม.AssemblyInfo.cs
+C:\Users\INK\source\repos\ระบบจองโรงแรม\ระบบจองโรงแรม\obj\Debug\net6.0-windows\ระบบจองโรงแรม.csproj.CoreCompileInputs.cache
+C:\Users\INK\source\repos\ระบบจองโรงแรม\ระบบจองโรงแรม\obj\Debug\net6.0-windows\ระบบจองโรงแรม.dll
+C:\Users\INK\source\repos\ระบบจองโรงแรม\ระบบจองโรงแรม\obj\Debug\net6.0-windows\refint\ระบบจองโรงแรม.dll
+C:\Users\INK\source\repos\ระบบจองโรงแรม\ระบบจองโรงแรม\obj\Debug\net6.0-windows\ระบบจองโรงแรม.pdb
+C:\Users\INK\source\repos\ระบบจองโรงแรม\ระบบจองโรงแรม\obj\Debug\net6.0-windows\ระบบจองโรงแรม.genruntimeconfig.cache
+C:\Users\INK\source\repos\ระบบจองโรงแรม\ระบบจองโรงแรม\obj\Debug\net6.0-windows\ref\ระบบจองโรงแรม.dll
+C:\Users\INK\source\repos\ระบบจองโรงแรม\ระบบจองโรงแรม\obj\Debug\net6.0-windows\ระบบจองโรงแรม.Form5.resources
+C:\Users\INK\source\repos\ระบบจองโรงแรม\ระบบจองโรงแรม\obj\Debug\net6.0-windows\ระบบจองโรงแรม.fm6.resources
+C:\Users\INK\source\repos\ระบบจองโรงแรม\ระบบจองโรงแรม\obj\Debug\net6.0-windows\ระบบจองโรงแรม.Final eiei.resources
